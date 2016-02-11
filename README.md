@@ -1,4 +1,4 @@
-### Proof of concept to use iconmoon-poc
+### Proof of concept to use icomoon-poc
 
 #### Requirements
 ------------
@@ -7,6 +7,6 @@
 
 ---
 ```
- iconmoon-poc 1.0.0
+ icomoon-poc 1.0.0
  2016-02-12
 ```
